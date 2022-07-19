@@ -1,14 +1,14 @@
 {
-  "name": "eslint-test",
+  "name": "typescript-node-starter",
   "version": "1.0.0",
   "description": "",
-  "homepage": "https://github.com/dabo248/eslint-test#readme",
+  "homepage": "https://github.com/dabo248/typescript-node-starter#readme",
   "bugs": {
-    "url": "https://github.com/dabo248/eslint-test/issues"
+    "url": "https://github.com/dabo248/typescript-node-starter/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dabo248/eslint-test.git"
+    "url": "git+https://github.com/dabo248/typescript-node-starter.git"
   },
   "license": "ISC",
   "author": "",
