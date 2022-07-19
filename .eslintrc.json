@@ -5,12 +5,11 @@
     },
     "extends": [
         "eslint:recommended",
-        "plugin:@typescript-eslint/recommended",
-        "plugin:node/recommended"
+        "plugin:@typescript-eslint/recommended"
     ],
     "parser": "@typescript-eslint/parser",
     "parserOptions": {
-        "ecmaVersion": "latest",
+        "ecmaVersion": 2021,
         "sourceType": "module"
     },
     "plugins": [

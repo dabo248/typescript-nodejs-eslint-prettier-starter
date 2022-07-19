@@ -1,16 +1,17 @@
-import { readFile, readFileSync } from 'fs'
-import { resolve } from 'path'
+// import { readFile, readFileSync } from 'fs'
+// import { resolve } from 'path'
 
-console.log(readFileSync.toString())
-console.log(readFile.toString())
+// console.log(readFileSync.toString())
+// console.log(readFile.toString())
 
-console.log(resolve.toString()
-)
+// console.log(resolve.toString()
+// )
 
-console.log('hello world')
+console.log('Hello World')
 
-const greet =
-async (name: string) => {
+await Promise.resolve(true)
+
+const greet = (name: string) => {
     const list = [4, 5, 6]
 
     for (const i in list) {
@@ -22,5 +23,4 @@ async (name: string) => {
 greet('David')
 
 const number = 12
-
 console.log(number)
