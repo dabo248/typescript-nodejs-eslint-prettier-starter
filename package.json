@@ -8,7 +8,7 @@
     "build": "tsc",
     "check": "tsc --noEmit && eslint . && npx prettier --check .",
     "lint": "eslint . --fix && npx prettier --write .",
-    "start": "node build/main.js",
+    "start": "npm run build && node build/main.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "devDependencies": {
