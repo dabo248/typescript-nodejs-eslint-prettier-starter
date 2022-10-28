@@ -4,4 +4,4 @@
 
 Tired of setting up TypeScript, Node.js, ESLint and Prettier over and over again?
 
-Grab this template and start coding. 🚀
+Grab this template and start coding right away. 🚀
